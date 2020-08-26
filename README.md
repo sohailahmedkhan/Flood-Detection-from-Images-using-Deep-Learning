@@ -1,5 +1,6 @@
 # Flood-Detection-from-Images-using-Deep-Learning
-Flood detection from images using deep learning. I employed KERAS' pretrained MobileNet CNN and fine-tuned it for our particular flood detection (image classification) task.
+
+I employed KERAS' pretrained MobileNet CNN and fine-tuned it for our particular flood detection (image classification) task.
 
 The data can be downloaded from the following link:
 

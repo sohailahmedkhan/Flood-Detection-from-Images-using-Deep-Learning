@@ -11,8 +11,12 @@ NOTE: This code was inspired and modified from the following source: https://dee
 The data can be downloaded from the following link:
 https://drive.google.com/file/d/1oT07-wVuYj_hByn4FqUtIj63Yg_fe7dP/view?usp=sharing
 
+Fine-tuned dlood detection model can be downloaded from the follwing link:
+https://drive.google.com/file/d/1mF8NmMClUbKXYJoDdW3OYHhwiSknI5hk/view?usp=sharing
+
 Funfact: This model outperforms the model presented in the paper.
 
 Normal or No Flooding images were collected from google image search, there may be irrelevant images in this category because the images were downloaded using an automated script.
 
 The trained model performed quite impressively and got an accuracy score of over 98% and it was only trained for about 5 minutes.
+
